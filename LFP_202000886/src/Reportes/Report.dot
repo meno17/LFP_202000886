@@ -1,0 +1,24 @@
+digraph structs {
+	node [shape=record]
+	struct1 [label="{{<peli> {i.nombre} |{{i.Año}}|{i.genero}}}"]
+	struct2 [label="<f0> {i.actores}"]
+	struct1:peli -> struct2:f0
+	struct1 [label="{{<peli> {i.nombre} |{{i.Año}}|{i.genero}}}"]
+	struct2 [label="<f0> {i.actores}"]
+	struct1:peli -> struct2:f0
+	struct1 [label="{{<peli> {i.nombre} |{{i.Año}}|{i.genero}}}"]
+	struct2 [label="<f0> {i.actores}"]
+	struct1:peli -> struct2:f0
+	struct1 [label="{{<peli> {i.nombre} |{{i.Año}}|{i.genero}}}"]
+	struct2 [label="<f0> {i.actores}"]
+	struct1:peli -> struct2:f0
+	struct1 [label="{{<peli> {i.nombre} |{{i.Año}}|{i.genero}}}"]
+	struct2 [label="<f0> {i.actores}"]
+	struct1:peli -> struct2:f0
+	struct1 [label="{{<peli> {i.nombre} |{{i.Año}}|{i.genero}}}"]
+	struct2 [label="<f0> {i.actores}"]
+	struct1:peli -> struct2:f0
+	struct1 [label="{{<peli> {i.nombre} |{{i.Año}}|{i.genero}}}"]
+	struct2 [label="<f0> {i.actores}"]
+	struct1:peli -> struct2:f0
+}
